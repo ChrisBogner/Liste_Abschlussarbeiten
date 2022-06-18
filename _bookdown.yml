@@ -1,0 +1,13 @@
+book_filename: "thesis"
+rmd_files: ["index.Rmd",
+"01-bachelor.Rmd",
+"02-master.Rmd"]
+before_chapter_script: ["helper_functions.R"]
+language:
+  ui:
+    chapter_name: "Chapter "
+  label:
+        tab: 'Table '
+        fig: 'Figure '
+delete_merged_file: true
+output_dir: "docs"
