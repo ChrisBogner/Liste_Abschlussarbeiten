@@ -1,7 +1,8 @@
 book_filename: "thesis"
 rmd_files: ["index.Rmd",
 "01-bachelor.Rmd",
-"02-master.Rmd"]
+"02-master.Rmd",
+"21-biblio.Rmd"]
 before_chapter_script: ["helper_functions.R"]
 language:
   ui:

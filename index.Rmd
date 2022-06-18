@@ -1,6 +1,6 @@
 ---
 knit: "bookdown::render_book"
-title: "Theses offered in the Working Group Ecosystemresearch"
+title: "Theses offered in the Working Group Ecosystem Research"
 #subtitle: "SoSe 2022"
 #author: "Christina Bogner"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
@@ -13,15 +13,14 @@ github-repo: https://github.com/ChrisBogner/datenanalyse
 #description: "Begleitskript zur Veranstaltung Datenanalyse mit R, inspiriert von ModernDive"
 ---
 
-# Vorwort {-}
+# Preface {-}
 
-> "And honey, we're gonna do it in style"
+> The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...' 
+`r tufte::quote_footer('--- Isaac Asimov')`
 
-`r tufte::quote_footer('--- Fools Garden')`
-
-## Organisatorisches {-}
+## Before applying {-}
 
 ```{block, type='rmdinfo'}
-Die Coronaviruspandemie hat unser Leben und unser Lernen verändert. Die vergangenen digitalen Semester haben ein paar nützliche Werkzeuge etabliert, die ich gerne in die Präsenzlehre übernehmen möchte.
+Please consider the guidelines on our website of how to contact us for a bachelor or master supervision.
 ```
 

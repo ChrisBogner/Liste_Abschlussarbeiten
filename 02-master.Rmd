@@ -2,5 +2,18 @@
 
 ## CRC 1357 Microplastics
 
+### Vertical distribution of microplastic particles in alluvial soils
+
+**Description**: You will determine the amount of microplastic particles on soil samples taken in different depths in s profile in Merkenich-Langel (Cologne).
+
+**Goal**: Visualize the vertical distribution of MPs and correlate them to soil properties to understand possible vertical migration of particles.
+
+**Methods**: $\mu$-FTIR spectroscopy
+
+**Whom to contact**: Hannes Laermanns, Markus Rolf
+
+**Particularities**: Lab work partially to be done at the University of Bayreuth (Dr. M. Löder) 
+
+
 
 ## CRC/TR 228 Futre Rural Africa

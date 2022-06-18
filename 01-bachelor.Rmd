@@ -2,5 +2,15 @@
 
 ## CRC 1357 Microplastics
 
+### Microplastic inputs to soils in Germany
+
+**Description**: Microplastics (MPs) can enter soils via different pathways, e.g., via sewadge sludge, compost etc. Some publications provide estimates on how much MP is deposited every year on soils in Germany. However, data is still scarce and some older studies are often re-cited. 
+
+**Goals and research questions** (1) Provide an up-to-date overview over available data on yearly MP loads in Germany starting from @Blaesing2018. (2) How are flows of plastic estimated and how good is the data [@Kawecki2021]? (3) Can composts, sewage sludge or untreated water be used in agriculture and what are the current regulations for their plastic/microplastic contents in Germany?
+
+**Methods**: Systematic literature review following PRISMA
+
+**Whom to contact**: Hannes Laermanns, Christina Bogner
+
 
 ## CRC/TR 228 Futre Rural Africa
